@@ -1,0 +1,1 @@
+export default "✨ Gửi Quỳnh Anh - cô gái cá tính và vui vẻ hoà đồng nhất hệ mặt trời của 8B! ✨<br><br>Nhân ngày 20 tháng 10, chúc cậu luôn rạng rỡ như ánh sao, giữ mãi nụ cười toả nắng và nguồn năng lượng tích cực lan toả đến mọi người. Cứ mãi tự tin, học thật giỏi và sống trọn vẹn với thanh xuân rực rỡ của mình nhé! 💖🎀";

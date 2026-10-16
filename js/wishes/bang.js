@@ -1,0 +1,1 @@
+export default "Chúc Băng 20 tháng 10 thật nhiều niềm vui. Đừng nhút nhát nữa nhé, cậu rất tuyệt vời, hãy cứ tự tin và mỉm cười thật nhiều!";

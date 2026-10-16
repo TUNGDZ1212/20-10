@@ -1,0 +1,1 @@
+export default "Chúc Thái An 20 tháng 10 vui vẻ! Dù có hơi ít nói một chút nhưng sự vui vẻ mộc mạc của cậu luôn được mọi người yêu mến.";

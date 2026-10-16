@@ -1,0 +1,1 @@
+export default "Chúc Hà Thư ngày 20 tháng 10 hạnh phúc nhất! Hãy mãi là cô bạn vui vẻ, hoà đồng và đáng yêu trong mắt mọi người nha.";

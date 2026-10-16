@@ -1,0 +1,1 @@
+export default "Chúc Bảo An - bông hoa xinh đẹp của 8B một ngày 20 tháng 10 rực rỡ và luôn giữ mãi nụ cười vui vẻ trên môi nhé!";

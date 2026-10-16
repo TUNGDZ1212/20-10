@@ -1,0 +1,1 @@
+export default "Chúc Vân Anh ngày lễ 20 tháng 10 ngập tràn quà và hoa. Hãy cứ luôn vui vẻ, cá tính và lan toả sự hoà đồng tới mọi người!";

@@ -1,0 +1,1 @@
+export default "Chúc Thuý 20 tháng 10 ngập tràn yêu thương. Hãy gạt bỏ sự nhút nhát, tự tin lên vì cậu là cô gái trầm tính rất đáng yêu của 8B!";

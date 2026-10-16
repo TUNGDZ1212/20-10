@@ -1,0 +1,1 @@
+export default "Chúc Tâm An có một ngày 20 tháng 10 rực rỡ, luôn giữ được nụ cười vui vẻ, sự hoà đồng và một chút cá tính thật đáng yêu!";

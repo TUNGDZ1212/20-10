@@ -1,0 +1,1 @@
+export default "Chúc Dung có một ngày 20 tháng 10 thật dịu dàng và ấm áp. Mặc dù trầm tính, nhưng cậu là một mảnh ghép không thể thiếu của 8B!";

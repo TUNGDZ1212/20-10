@@ -1,0 +1,1 @@
+export default "Chúc Mai 20 tháng 10 vui vẻ! Chúc lớp phó học tập môn văn siêu hiền lành ngày càng học giỏi và viết ra những áng văn thật bay bổng nhé!";

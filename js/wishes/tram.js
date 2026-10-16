@@ -1,0 +1,1 @@
+export default "Chúc lớp trưởng Trâm 20 tháng 10 tuyệt vời! Cảm ơn cậu vì đã luôn là một người thủ lĩnh học giỏi toàn diện và chèo lái 8B cực kỳ xuất sắc!";

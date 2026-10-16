@@ -1,0 +1,1 @@
+export default "Chúc Phương ngày lễ vui vẻ! Cô nàng mạnh mẽ và đầy cá tính của 8B hãy luôn tự tin bước đi trên con đường của mình nhé.";

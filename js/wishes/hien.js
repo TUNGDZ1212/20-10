@@ -1,0 +1,1 @@
+export default "Chúc Hiền 20 tháng 10 thật ấm áp. Dù cậu ít nói nhưng nụ cười vui vẻ của cậu luôn làm lớp mình thấy dễ mến lắm đó!";

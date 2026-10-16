@@ -1,0 +1,1 @@
+export default "Chúc Thương ngày càng xinh đẹp, tươi tắn. Cứ giữ vững sự vui vẻ và phong độ học tập thật tốt như hiện tại nhé!";

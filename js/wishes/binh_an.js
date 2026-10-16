@@ -1,0 +1,1 @@
+export default "Chúc Bình An luôn bình an và vui vẻ đúng như tên gọi của cậu! 20/10 nhận thật nhiều quà nhé!";

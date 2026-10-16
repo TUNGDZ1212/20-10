@@ -1,0 +1,1 @@
+export default "Chúc Vy ngày 20 tháng 10 thật rạng rỡ. Hãy mãi giữ sự tốt tính, vui vẻ và duy trì phong độ học tập đỉnh cao của cậu nha!";

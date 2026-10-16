@@ -1,0 +1,1 @@
+export default "Chúc Chi mãi đỉnh! Vừa học giỏi, vừa hoà đồng, lại còn cá tính. Chúc cậu 20 tháng 10 nhận được vô vàn lời chúc tốt đẹp!";

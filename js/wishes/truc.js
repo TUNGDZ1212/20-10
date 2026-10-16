@@ -1,0 +1,1 @@
+export default "Chúc Trúc có ngày 20 tháng 10 thật tuyệt. Sự vui vẻ, thân thiện và hoà đồng của cậu luôn làm mọi người cảm thấy thật ấm áp!";

@@ -1,0 +1,1 @@
+export default "Chúc An Na 20 tháng 10 xinh đẹp rạng ngời! Cứ giữ vững sự cá tính, vui vẻ và nụ cười hoà đồng toả nắng của cậu nha.";

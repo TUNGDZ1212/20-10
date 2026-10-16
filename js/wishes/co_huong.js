@@ -1,0 +1,1 @@
+export default "Nhân ngày 20 tháng 10, tập thể lớp 8B kính chúc cô chủ nhiệm Lê Thị Hương luôn mạnh khỏe, hạnh phúc và thành công. Cảm ơn cô đã luôn bao dung, dẫn dắt và yêu thương chúng em!";

@@ -1,0 +1,1 @@
+export default "Chúc Huyền Trang 20 tháng 10 thật nhiều niềm vui. Cô bạn hoà đồng, vui vẻ và đầy cá tính hãy luôn hạnh phúc nhé!";

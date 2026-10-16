@@ -1,0 +1,1 @@
+export default "Happy Women's Day! Chúc Tiên luôn giữ vững sự mạnh mẽ, cá tính đầy sức hút của riêng mình và luôn tự tin toả sáng!";

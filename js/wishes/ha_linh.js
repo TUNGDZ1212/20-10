@@ -1,0 +1,1 @@
+export default "Chúc Hà Linh 20 tháng 10 toả sáng rạng ngời! Cảm ơn sự hoà đồng và nụ cười vui vẻ của cậu đã luôn thắp sáng 8B.";

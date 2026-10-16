@@ -1,0 +1,1 @@
+export default "Gửi lớp phó âm nhạc cá tính: Chúc Gia Bình 20 tháng 10 ngập tràn niềm vui, hãy luôn là giọng ca truyền cảm hứng của 8B nhé!";

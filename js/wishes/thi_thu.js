@@ -1,0 +1,1 @@
+export default "Chúc Thị Thư có một ngày lễ 20 tháng 10 thật trọn vẹn và hạnh phúc. Cô gái trầm tính, nhút nhát hãy cười tươi nhiều hơn nhé!";
